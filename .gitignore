@@ -38,3 +38,9 @@ captures/
 
 # Keystore files
 *.jks
+
+
+#test
+app/src/androidTest
+app/src/test
+
